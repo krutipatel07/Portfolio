@@ -141,6 +141,9 @@ header nav ul li a {
 a.flex-item.covid-project{
     background-image: url(../images/covid-img.jpg);
 }
+a.flex-item.window-shopper{
+    background-image: url(../images/window-shopper.png);
+}
 a.flex-item.password-generatore{
     background-image: url(../images/password-generator.jpg);
 }
